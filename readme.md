@@ -2,8 +2,9 @@
 
 [简体中文](./readme.zh.md)
 
-[![Backers on Open Collective](https://opencollective.com/SVGAPlayer-Android/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/SVGAPlayer-Android/sponsors/badge.svg)](#sponsors) 
+## 支持本项目
+
+1. 轻点 GitHub Star，让更多人看到该项目。
 
 ## Introduce
 
